@@ -1,0 +1,22 @@
+1.HTML Tags: HTML tags are the markup instructions enclosed within angle brackets (< and >). 
+             They define the structure and behavior of the elements in an HTML document.
+             They usually come in pairs, with an opening tag and a closing tag.
+    Example: <h1></h1>
+
+    In this example, <h1> is the opening tag, and </h1> is the closing tag.
+
+2.HTML Elements: HTML elements consist of an opening tag, the content, and a closing tag.
+ They represent a complete unit of information or functionality within an HTML document. 
+ Elements are made up of one or more tags and the content nested between them.
+
+    Example: <p>This is a paragraph.</p>
+
+    In this example, <p> is the opening tag, "This is a paragraph." is the content, and
+    </p> is the closing tag. Together, they form the <p> element, which represents a paragraph of text.
+
+3.HTML Attributes:attributes provide additional information or properties to HTML elements.
+  They are specified within the opening tag of an element and modify the behavior or appearance of the element.
+
+   Example: <img src="image.jpg" width="300" height="200">
+   src: This attribute specifies the source URL or file path of the image to be displayed.
+   width and height: These attributes define the width and height dimensions of the image in pixels.

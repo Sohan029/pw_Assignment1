@@ -1,0 +1,14 @@
+HTML Tags:
+
+<h1> - This tag represents the highest level of heading in HTML.
+       It is typically used for main headings on a web page.
+       Example: <h1>Welcome to My Website</h1>
+
+<p> - This tag is used to define a paragraph of text.
+      It is commonly used to structure and present blocks of content.
+      Example: <p>This is a paragraph of text.</p>
+
+<a> - This tag creates a hyperlink to another web page or
+     a specific location within the same page. 
+     It is used to link different resources together. 
+     Example: <a href="https://www.example.com">Visit Example</a>
